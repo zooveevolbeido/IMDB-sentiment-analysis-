@@ -1,1 +1,1 @@
-# IMDB-sentiment-analysis-
+自然言語処理を用いて映画の判別分析を行います。
